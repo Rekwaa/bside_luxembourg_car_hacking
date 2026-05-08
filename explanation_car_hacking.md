@@ -310,4 +310,4 @@ If this got you curious:
 
 ---
 
-*Built on a kitchen table with a screwdriver, a USB dongle, and Python. The cluster currently sits in my desk drawer between sessions, still believing it's a 2010 Škoda Fabia. It is not.*
+*Built on a kitchen table with a screwdriver, a USB dongle, and Python.*
